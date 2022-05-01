@@ -1,0 +1,4 @@
+1)Knowledge of a particular programming language,
+2)Knowledge of software testing types, methodologies, and techniques,
+3)Familiarity with certain bug tracking and test management tools,
+4)Communication,critical thinking,discipline,flexibility.
