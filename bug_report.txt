@@ -1,1 +1,5 @@
-
+Summary - "",
+Steps to Reproduce - "",
+Expected Result - "",
+Actual Result - "",
+Severity - "".
