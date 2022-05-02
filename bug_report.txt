@@ -1,5 +1,12 @@
-Summary - "",
-Steps to Reproduce - "",
-Expected Result - "",
-Actual Result - "",
-Severity - "".
+"Summary" - "",
+  "Project" - "",
+  "Component" - "",
+  "Version"   - "",
+  "Prioriy"   - "",
+   "Severity" - "",
+  "Steps to Reproduce" - "",
+  "Expected Result" - "",
+  "Actual Result" - "",
+  "Attachment"  - "",
+ "Author"  - "",
+ "Assigned" - "".
